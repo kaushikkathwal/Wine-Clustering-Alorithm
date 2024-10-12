@@ -85,4 +85,4 @@ The project also includes several standalone functions that facilitate various t
  
 ## Conclusion
 The code I wrote successfully implements a clustering algorithm that effectively groups similar wines based on their attributes. By leveraging a structured approach with the Matrix class and various standalone functions, the code can efficiently load data, standardize it, compute distances, and categorize wines into distinct groups. Additionally, the integration of frequency counting provides valuable insights into the distribution of wines across different clusters, enabling a better understanding of the underlying data patterns. This project not only demonstrates the practical application of clustering algorithms but also serves as a foundation for future enhancements and analyses in the field of wine classification.
-
+## Linkedin Post Link:-https://www.linkedin.com/posts/kaushik-kathwal-372769290_datascience-machinelearning-wineindustry-activity-7250860756361994240-P7FS?utm_source=share&utm_medium=member_desktop
